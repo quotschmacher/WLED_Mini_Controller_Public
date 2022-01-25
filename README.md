@@ -72,5 +72,4 @@ TXS0102DCU|U3|Package_SO:VSSOP-8_2.3x2mm_P0.5mm|C53434
 <img src="./Images/IMG_8540.JPEG" width="50%" height="50%">
 <img src="./Images/IMG_8541.JPEG" width="50%" height="50%">
 
-- https://github.com/Hasenpups/WLED_Mini_Controller/blob/main/Case/Mini_Base.stl
-- https://github.com/Hasenpups/WLED_Mini_Controller/blob/main/Case/Mini_Top.stl
+https://www.prusaprinters.org/prints/124222-wled-all-in-one-controller-housing
