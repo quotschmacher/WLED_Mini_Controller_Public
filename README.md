@@ -20,6 +20,7 @@ If you like my projects and want to support me for upcoming projects :smiling_fa
 - Amazon Giftcard: https://www.amazon.de/Amazon-Gutschein-per-E-Mail-Amazon/dp/B0054PDOV8 - stefan.riese@me.com
 
 ## Features
+- ESP-WROOM-02 (ESP8266)
 - 5,5mm / 2,1mm barrel jack connector for input voltage
 - 2 output lines for LED data and LED clock or relais
 - level shifter for all 2 outputs (3.3V -> 5V )
